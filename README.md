@@ -23,4 +23,4 @@
   
   ##
   
-  Hello 👋, my name is Mileide and I am a Web development student. I am currently studying JavaScript and Node.Js. 😊🤓
+  Hello 👋, my name is Mileide and I am a Web development student. I am currently studying JavaScript and Python. 😊🤓
