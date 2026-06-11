@@ -1,31 +1,40 @@
-  
 # Olá, eu sou a Mileide Silva de Arruda! 👋
 
 ### Estagiária de Desenvolvimento de Software | Graduanda em Análise e Desenvolvimento de Sistemas
 
-Seja bem-vindo(a) ao meu perfil do GitHub! Atualmente, estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera e atuando como Estagiária de Desenvolvimento de Software. Sou apaixonada por tecnologia, cultura nerd/anime e por transformar lógica em soluções reais, transitando com entusiasmo entre o ecossistema de front-end e back-end.
+Seja bem-vindo(a) ao meu perfil do GitHub! Atualmente, estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera e atuando como **Estagiária de Desenvolvimento de Software**. 
+
+Sou apaixonada por tecnologia, lógica e pela resolução de problemas complexos. Tenho focado intensamente no desenvolvimento de soluções robustas, transitando com facilidade entre o front-end e o back-end, sempre buscando aplicar as melhores práticas de mercado sob a mentoria do meu Tech Lead.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 💼 Experiência Atual & Atividades no Estágio
 
-Aqui estão as principais tecnologias com as quais tenho trabalhado e estudado diariamente:
+No meu dia a dia como desenvolvedora estagiária, venho expandindo minha bagagem técnica e atuando em cenários reais de produção:
+* **Desenvolvimento Back-End:** Construção e manutenção de APIs utilizando **Java (POO, Maven)** e frameworks modernos em Python como **FastAPI** e **Flask**, integrando ORMs como **SQLAlchemy**.
+* **Arquitetura de APIs:** Criação de serviços escaláveis com **Node.js (NestJS)**, aplicando validações rigorosas de dados com **Zod** e mapeamento com **Prisma**.
+* **Banco de Dados:** Manipulação, estruturação e consulta de dados utilizando **SQL Server** e **PostgreSQL**.
+* **Tratamento de Erros e Boas Práticas:** Implementação de padrões de respostas HTTP adequados (como padronização de retornos e tratamento correto de erros de autenticação) e versionamento de código com Git.
+
+---
+
+## 🛠️ Stack Técnica Geral
 
 | Área | Tecnologias |
 | :--- | :--- |
-| **Back-End** | Java (Maven, OOP), Python (FastAPI, Flask, SQLAlchemy), Node.js (NestJS, Prisma, Zod) |
+| **Back-End** | Java, Python (FastAPI, Flask, SQLAlchemy), Node.js (NestJS, Prisma, Zod) |
 | **Front-End** | JavaScript, TypeScript, React, HTML5, CSS3 |
 | **Bancos de Dados** | SQL Server, PostgreSQL |
-| **Ferramentas** | Git, GitHub, IntelliJ IDEA, VS Code |
+| **Ferramentas & Ambientes** | Git, GitHub, IntelliJ IDEA, VS Code |
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque (Estudos & Desafios)
 
-Aqui no meu perfil você vai encontrar repositórios focados no meu aprendizado prático, como:
-* **Sistemas de Gerenciamento de Tarefas (Task Managers)** aplicando arquiteturas limpas.
-* **Sistemas Bancários simulados** para praticar lógica complexa, POO e persistência de dados.
-* Projetos acadêmicos e desafios de avaliação técnica.
+Aqui no meu perfil você vai encontrar repositórios focados no meu aprendizado contínuo, como:
+* **Sistemas de Gerenciamento de Tarefas (Task Managers):** Criados para consolidar conceitos de arquitetura limpa e rotas.
+* **Sistemas Bancários Simulados:** Desenvolvidos para praticar lógica complexa, Programação Orientada a Objetos e persistência de dados em cenários críticos.
+* Desafios de código e testes técnicos para avaliação de conceitos de engenharia de software.
 
 ---
 
