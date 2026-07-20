@@ -22,7 +22,7 @@ No meu dia a dia como desenvolvedora estagiária, venho expandindo minha bagagem
 
 | Área | Tecnologias |
 | :--- | :--- |
-| **Back-End** | Java, Python (FastAPI, Flask, SQLAlchemy), Node.js (NestJS, Prisma, Zod) |
+| **Back-End** | Java, Node.js (NestJS, Prisma, Zod) |
 | **Front-End** | JavaScript, TypeScript, React, HTML5, CSS3 |
 | **Bancos de Dados** | SQL Server, PostgreSQL |
 | **Ferramentas & Ambientes** | Git, GitHub, IntelliJ IDEA, VS Code |
